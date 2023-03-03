@@ -1,0 +1,15 @@
+.custom-card {
+    height: 50%;
+    width: 500px;
+    background: #fafcfc;
+    box-shadow: 2px 2px 5px #bebebe, -2px -2px 5px #ffffff;
+    border: none;
+    margin-left: 10px;
+    flex-grow: 0;
+    flex-direction: column;
+  }
+  
+  .card-img {
+    height: 150px;
+    object-fit: contain;
+  }
